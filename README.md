@@ -44,7 +44,7 @@ Kelas : 2D TRPL
 - setelah itu tambahkan kata seperti login pasword dan juga username
 - tambahkan email nya juga 
 - [Kemudian jika seperti gambar ini berarti .gitignore berhasil di push ke github]
-- [tampilan halaman awal](images/register.dart.png)
+- [tampilan halaman awal](images/antony.dart.png)
 
 
 ## Dokumentasi Praktikum 4: halaman login 
@@ -53,13 +53,13 @@ Kelas : 2D TRPL
 - tambahkan kata registasi berhasil 
 - tambahkan juga fulname dan pasword nya
 - maka akan muncul tampilan halaman login utamanya
-- [tampilan halaman login ](images/gambar login.png)
+- [tampilan halaman login ](images/antony.png)
 
 ## Dokumentasi Praktikum 4: hasil 
 - akan muncul tampilan dari halaman yang brhasil dibuat 
 - muncul selamat datang dan nama user yang dibuat 
 - dengan ini berhasil untuk membuat halaman loginya dan masuk kedalamnya
-- [tampilan akhir dari projeck](images/tampilan.png)
+- [tampilan akhir dari projeck](images/perubahan.png)
 
 ##kesimpulan dalam praktikum 
 berhasil memuat halaman login sederhana dengan menambahkan imail dan pasword serta
@@ -83,6 +83,8 @@ latihan
 - membuat versi sederhana tetapi tetap sesuai dengan apa yang diperintahkan
 - menrubah sedikit kode pada register dan juga home agar sesuai dengan yang di inginkan 
 - menambahkan hero icon antony (2) seperti contohnya dan otomatis tampilan awal memiliki profil yang menampilkan animasi sederhana
--[tampilan hero yang berhasil ditambahkan ](images/antony (2).png)
+-[tampilan hero yang berhasil ditambahkan ](images/tampilan.png)
 ##dokumentasi no 4(simpan sesi login)
--[tampilan hero yang berhasil ditambahkan ](images/antony.png)
+-[tampilan hero yang berhasil ditambahkan ](images/gambar login.png)
+- menambahkan provil supaya lebih menarik
+-[tampilan hero yang berhasil ditambahkan ](images/antony1.png)
