@@ -77,11 +77,12 @@ latihan
 - pada perintah ini sudah saya sembunyikan pasword nya 
 - jadi untuk ini tidak perlu lagi untuk melakukan nya
 - [seperti ini tamplanya](images/gambar login.png)
+
 ## dokumentasi no 3( animasi sederhana)
 - menambahkan wignet tambahan pada ikon login 
 - membuat versi sederhana tetapi tetap sesuai dengan apa yang diperintahkan
 - menrubah sedikit kode pada register dan juga home agar sesuai dengan yang di inginkan 
 - menambahkan hero icon antony (2) seperti contohnya dan otomatis tampilan awal memiliki profil yang menampilkan animasi sederhana
- -[tampilan hero yang berhasil ditambahkan ](images/antony.png)
+-[tampilan hero yang berhasil ditambahkan ](images/antony (2).png)
 ##dokumentasi no 4(simpan sesi login)
-- 
+-[tampilan hero yang berhasil ditambahkan ](images/antony.png)
