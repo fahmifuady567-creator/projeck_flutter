@@ -18,7 +18,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Project Pertama Flutter (Pertemuan 2)
+# Project Pembuatan form dan register
 
 NIM : 362458302096
 Nama : achmad fahmi fuady
@@ -62,13 +62,13 @@ Kelas : 2D TRPL
 - [tampilan akhir dari projeck](images/perubahan.png)
 
 ##kesimpulan dalam praktikum 
-berhasil memuat halaman login sederhana dengan menambahkan imail dan pasword serta
-login yang akan mengarah ke halaman yang dituju
+pembuatan projek yang benar dan sesuai akan membuat dan dapat menghasilkan halaman login sederhana dengan menambahkan email dan password serta
+login yang akan mengarah ke halaman yang dituju tentu dengan penerapan yang benar 
 
 
 latihan 
 ## dokumentasi no 1( validasi imput)
-- imail sudah memenuhi kriteria yang diinginkan 
+- email sudah memenuhi kriteria yang diinginkan 
 - memiliki pasword 6 digit seperti yang sudah di perintahkan 
 - tidak perlu mevalidasi input karena sudah sesuai 
 - [tampilan halaman login](images/gambar login.png)
@@ -76,14 +76,15 @@ latihan
 ## dokumentasi no 2( tampilan sembunyi pasword)
 - pada perintah ini sudah saya sembunyikan pasword nya 
 - jadi untuk ini tidak perlu lagi untuk melakukan nya
-- [seperti ini tamplanya](images/gambar login.png)
+- [seperti ini tampilanya](images/gambar login.png)
 
 ## dokumentasi no 3( animasi sederhana)
 - menambahkan wignet tambahan pada ikon login 
-- membuat versi sederhana tetapi tetap sesuai dengan apa yang diperintahkan
-- menrubah sedikit kode pada register dan juga home agar sesuai dengan yang di inginkan 
-- menambahkan hero icon antony (2) seperti contohnya dan otomatis tampilan awal memiliki profil yang menampilkan animasi sederhana
+- membuat versi sederhana tetapi tetap sesuai dengan apa yang diperintahkan dan menarik
+- merubah sedikit kode pada register dan juga home agar sesuai dengan yang di inginkan 
+- menambahkan hero icon antony1 seperti contohnya dan otomatis tampilan awal memiliki profil yang menampilkan animasi sederhana
 -[tampilan hero yang berhasil ditambahkan ](images/tampilan.png)
+
 ##dokumentasi no 4(simpan sesi login)
 -[tampilan hero yang berhasil ditambahkan ](images/gambar login.png)
 - menambahkan provil supaya lebih menarik
